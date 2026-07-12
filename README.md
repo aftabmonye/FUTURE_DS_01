@@ -8,7 +8,7 @@ The project was completed using Excel, Python, and Power BI to clean the data, c
 
 ## Dashboard Preview
 
-![Mexico Toy Sales Dashboard](Images/Dashboard_Preview.png)
+![Mexico Toy Sales Dashboard](Dashboard_Preview.png)
 
 ## Project Objectives
 
